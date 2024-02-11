@@ -45,4 +45,4 @@ The clone is quite packed with functionality. It appears to be YouTube. Every p
 
 
 
-The clone is quite packed with functionality. It appears to be YouTube. Every piece of video content originates directly from YouTube. There is also have a functional search bar that takes users to the official YouTube search page. Additionally, the user will be redirected to YouTube's official video page anytime they click on the video card.
+
