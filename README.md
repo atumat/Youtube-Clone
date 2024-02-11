@@ -14,9 +14,10 @@ An app that functions identically to YouTube, allowing users to upload, watch, s
   <img width="350" height="300"src="https://github.com/atumat/Youtube-Clone/assets/116307514/b973388e-b52e-4c58-8a7f-fab8c46f98c0.png">
 </p>
 
-<h2 >Object Oriented Programming </h2>
+<h2 > Functionality </h2>
  <p align="justify">
- Object-oriented programming is essentially a concept or technique for computer programming that models software architecture around data or objects rather than functions and logic.A data field is referred to as an object if it has distinct characteristics and behaviour. In OOP, everything is categorised as objects.
+The clone is quite packed with functionality. It appears to be YouTube. Every piece of video content originates directly from YouTube. There is also have a functional search bar that takes users to the official YouTube search page. Additionally, the user will be redirected to YouTube's official video page anytime they click on the video card.
+
 </p>
 <p>
 
