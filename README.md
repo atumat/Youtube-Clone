@@ -1,11 +1,11 @@
 <h1>Youtube Clone /h1>
  
- <p align="center">
-<img src="https://img.shields.io/badge/Javascript-orange">
-<img src="https://badges.frapsoft.com/os/v1/Youtube-API.svg?v=103">
+<p align="center">
+<img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
+<img src="https://img.shields.io/badge/Clone-orange">
+<img src="https://img.shields.io/badge/Youtube-API-brightgreen">
+<img src="https://badges.frapsoft.com/os/v1/Javascript-css.svg?v=103">
 </p>
-
-
 
 <p align="justify">
 An app that functions identically to YouTube, allowing users to upload, watch, subscribe, and engage in a variety of other activities in addition to accessing streaming videos.
