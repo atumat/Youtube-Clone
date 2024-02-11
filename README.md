@@ -2,7 +2,7 @@
  
  <p align="center">
 <img src="https://img.shields.io/badge/Javascript-orange">
-<img src="https://badges.frapsoft.com/os/v1/API.svg?v=103">
+<img src="https://badges.frapsoft.com/os/v1/Youtube-API.svg?v=103">
 </p>
 
 
