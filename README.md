@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
 <img src="https://img.shields.io/badge/Clone-orange">
 <img src="https://img.shields.io/badge/Youtube-API-brightgreen">
-<img src="https://badges.frapsoft.com/os/v1/Javascript-css.svg?v=103">
+<img src="https://badges.frapsoft.com/os/v1/Javascript.svg?v=103">
 </p>
 
 <p align="justify">
