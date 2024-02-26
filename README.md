@@ -10,6 +10,7 @@
 An app that functions identically to YouTube, allowing users to upload, watch, subscribe, and engage in a variety of other activities in addition to accessing streaming videos.
  </p>
 
+
  <p align="center">
   <img width="350" height="300"src="https://github.com/atumat/Youtube-Clone/assets/116307514/b973388e-b52e-4c58-8a7f-fab8c46f98c0.png">
 </p>
