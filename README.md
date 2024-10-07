@@ -7,7 +7,7 @@
 </p>
 
 <p align="justify">
-An app that functions identically to YouTube, allowing users to upload, watch, subscribe, and engage in a variety of other activities in addition to accessing streaming videos.
+An app that functions  identically to YouTube, allowing users to upload, watch, subscribe, and engage in a variety of other activities in addition to accessing streaming videos.
  </p>
 
 
